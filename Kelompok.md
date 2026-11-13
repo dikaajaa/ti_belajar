@@ -1,0 +1,7 @@
+- Arkan
+- Oryza
+- Anwar
+- Fatir
+- Slamet
+- Joko
+- Maman
